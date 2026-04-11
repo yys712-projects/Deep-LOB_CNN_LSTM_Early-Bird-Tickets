@@ -6,4 +6,4 @@ technique, we can prune some paths in the network and only choose thoes paths wi
 this technique can speed up training by 60% while preserving testing accuracy. 
 
 ### Important note
-Education purposes only. Please do not directly copy everything and use it for production and/or real market trading operations.
+Educational purposes only. Please do not directly copy everything and use it for production and/or real market trading operations.
